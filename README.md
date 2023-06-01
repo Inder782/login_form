@@ -17,4 +17,4 @@ in this project i learnt about
   - child properties and hover
   
 
-!(https://github.com/Inder782/login_form/blob/master/image.png"Image")
+!(https://github.com/Inder782/login_form/blob/master/image.png)
